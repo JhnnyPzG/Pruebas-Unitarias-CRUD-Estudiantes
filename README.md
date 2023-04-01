@@ -1,3 +1,5 @@
+https://sonarcloud.io/api/project_badges/measure?project=JhnnyPzG_Pruebas-Unitarias-CRUD-Estudiantes&metric=alert_status
+
 Para lanzar el servicio rest api utilizar: 
 python api.py 
 
@@ -8,3 +10,5 @@ Ejecutando pruebas unitarias
 -> python -m unittest .\test_api.py
 
 Ejecutar base de datos Sqlite 3
+
+https://sonarcloud.io/project/overview?id=JhnnyPzG_Pruebas-Unitarias-CRUD-Estudiantes
