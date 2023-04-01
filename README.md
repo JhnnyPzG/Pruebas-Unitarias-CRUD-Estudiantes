@@ -1,4 +1,4 @@
-https://sonarcloud.io/api/project_badges/measure?project=JhnnyPzG_Pruebas-Unitarias-CRUD-Estudiantes&metric=alert_status
+
 
 Para lanzar el servicio rest api utilizar: 
 python api.py 
